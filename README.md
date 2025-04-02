@@ -40,11 +40,10 @@ The dataset contains air pollution data with the following key columns:
 
 ## **📎 Project Structure**  
 ```plaintext
-📂 Air-Quality-Prediction  
-│── 📁 dataset/                # Raw & cleaned dataset  
-│── 📁 notebooks/              # Jupyter notebooks for analysis  
-│── 📁 models/                 # Trained ML models  
-│── 📁 reports/                # Power BI dashboards & EDA visuals  
-│── 📜 README.md               # Project documentation  
-│── 📜 requirements.txt        # Dependencies  
-│── 📜 main.ipynb              # Main project notebook  
+Air-Quality-Data-India-Analysis/
+│-- 1. 📘 Air Quality Data India Analysis.ipynb   # Jupyter Notebook with analysis & modeling
+│-- 2. 📊 Dashboard on cleaned csv/               # Folder containing Power BI dashboards & screenshots
+│-- 3. 🖥️ PPT.pptx                                # Presentation explaining approach, insights & findings
+│-- 4. 📝 cleaned_data.xlsx                        # Processed & cleaned dataset
+│-- 5. 📄 data.xlsx                                # Raw dataset
+│-- 6. 📜 README.md                                # Project documentation & setup instructions 
